@@ -1,0 +1,8 @@
+__pycache__/
+.hackmd.env
+.hackmd-state.json
+inbox/*
+!inbox/.gitkeep
+reports/*
+!reports/.gitkeep
+.paper-tools/
